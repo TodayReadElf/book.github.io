@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Programming: Principles and Practice Using C++'
+project = 'Tech-Book'
 copyright = '2024, Asen'
 author = 'Bjarne Stroustrup'
 release = 'Third Edition'

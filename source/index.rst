@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Programming: Principles and Practice Using C++
+Tech-Book
 ==============================================
 
 .. Add your content using ``reStructuredText`` syntax. See the
@@ -12,6 +12,6 @@ Programming: Principles and Practice Using C++
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
+   Programming: Principles and Practice Using C++/index
